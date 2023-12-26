@@ -1,4 +1,2 @@
-added new file on new branch b1 changed in main/b1
-added new line in file 
-added new line in file new change in main
-
+added new file on new branch b1 now changed in b1
+added new line in file b1 change
