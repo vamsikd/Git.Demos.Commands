@@ -1,2 +1,2 @@
-added new file on new branch b1
-added new line in file 
+added new file on new branch b1 now changed in b1
+added new line in file git add . 
